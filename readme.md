@@ -44,3 +44,5 @@ yarn start
 
 This setup allows for reliable and automated pearl activations without needing manual intervention.
 
+![The Butler](2025-02-19_19.50.22.png)
+![Pearl Setup](2025-02-19_19.46.22.png)
